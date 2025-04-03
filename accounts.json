@@ -1,10 +1,10 @@
 [
     {
-        "Address": "Your evm address 1",
-        "deviceHash": "Your device hash 1"
+        "Address": "0xb306ada3ad06da8adf61223ab12ed0664a3f85c0",
+        "deviceHash": "2499338830"
     },
     {
-        "Address": "Your evm address 2",
-        "deviceHash": "Your device hash 2"
+        "Address": "0xb306ada3ad06da8adf61223ab12ed0664a3f85c0",
+        "deviceHash": "2499338830"
     }
 ]
